@@ -11,30 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in in Psychology - Ghent University, Belgium \(2020 – 2025\)
+* MSc in Cognitive Neuroscience \(*cum laude*\)– Radboud University, Netherlands \(2018 – 2020\)
+* MSc in Psychological Science \(*merit*\) - University of Glasgow, UK \(2016 – 2017\)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Visiting researcher** – imec \(Mar. 2025 – Present\)
+  * Design and conduct experiment on human-machine interaction.
+  * Collaborate with senior VR developer and manufacturer on GitHub and Microsoft Teams to communicate and present the progress of the project.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **PhD researcher** – Ghent University \(Sept. 2020 – Present\)
+  * Led research projects to deepen our understanding of humans’ flexible behaviors.
+  * Combine behavioral experiment, computational and statistical modelling, and medical imaging \(MRI and EEG\). 
+  * Present research results at international conferences, seminars, and scientific fairs.
+  * Create tutorial materials to assist teaching on two Master level courses.
   
-Skills
+Computational Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Python** :
+  * Machine learning \(*scikit-learn, SciPy, Pytorch*\)
+  * Data analysis \(*pandas*\)
+  * Data visualization and reporting \(*matplotlib, seaborn, Jupiter Notebook*\)
+  * Experimentation \(*PsychoPy*\)
+* **R** :
+  * Data wrangling \(*tidyverse*)\
+  * Statistical analysis \(*lme, emmeans, BayesFactor*\); 
+  * Data visualization \(*ggplot*\)
+* **JavaScript** :
+  * Experimentation \(*JsPsych*\)
+* **Git and GitHub** :
+  * Version control
+  * Project collaboration
+* **Matlab** :
+  * General computation
 
 Publications
 ======
