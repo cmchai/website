@@ -1,6 +1,6 @@
 ---
 title: "Brain decoding on cognitive processes"
-excerpt: "Applying machine learning algorithms to decode people's mind using brain imaging data <br/><img src='/website/images/brain_decoding.png'>"
+excerpt: "Applying machine learning algorithms to decode people's mind using brain imaging data <br/><img src='/website/images/brain_decoding.png' height='250px'>"
 collection: portfolio
 ---
 

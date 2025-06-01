@@ -1,6 +1,6 @@
 ---
 title: "Autonomizing computer assistance on traffic control"
-excerpt: "Using real-time data from wearable device to optimize human-machine interaction in a traffic control scenario <br/><img src='/website/images/traffic_control.png'>"
+excerpt: "Using real-time data from wearable device to optimize human-machine interaction in a traffic control scenario <br/><img src='/website/images/traffic_control.png' height='250px'>"
 collection: portfolio
 ---
 
