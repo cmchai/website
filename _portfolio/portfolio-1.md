@@ -1,6 +1,6 @@
 ---
 title: "Autonomizing computer assistance on traffic control"
-excerpt: "Using real-time data from wearable device to optimize human-machine interaction in a traffic control scenario <br/><img src='/website/images/500x300.png'>"
+excerpt: "Using real-time data from wearable device to optimize human-machine interaction in a traffic control scenario <br/><img src='/website/images/traffic_control.png'>"
 collection: portfolio
 ---
 
@@ -24,5 +24,6 @@ We are using the research-level wearable device from [Empatica EmbracePlus](http
 These physiological data are further analyzed using techniques from signal processing, especially regarding time series analysis, as well as several machine learning algorithms to build a predictive model on people's intention to up- or down regualate the level of the assistance. Once we can build a model that can generate accurate and robust predictions, this model can be used to automatically adjust the level of computer assistance.
 
 ## Key findings
-
+stay tuned...
 ## Potential for application
+stay tuned...
