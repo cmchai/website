@@ -35,7 +35,7 @@ Computational Skills
   * Data visualization and reporting \(*matplotlib, seaborn, Jupiter Notebook*\)
   * Experimentation \(*PsychoPy*\)
 * **R** :
-  * Data wrangling \(*tidyverse*)\
+  * Data wrangling \(*tidyverse*\)
   * Statistical analysis \(*lme, emmeans, BayesFactor*\); 
   * Data visualization \(*ggplot*\)
 * **JavaScript** :
@@ -48,9 +48,13 @@ Computational Skills
 
 Selected publicationss
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Chai, M., Holroyd, C. B., Brass, M., & Braem, S. \(2024\). [Dynamic changes in task preparation in a multi-task environment: The task transformation paradigm](https://doi.org/10.1016/j.cognition.2024.105784). *Cognition*, 247, 105784.
+
+Chai, M., Palenciano, A. F., Mill, R., Cole, M. W., & Braem, S. \(2025\). [It’s Hard to Prepare for Task Novelty: Cueing the Novelty of Upcoming Tasks Does Not Facilitate Task Performance](https://journalofcognition.org/articles/10.5334/joc.423). *Journal of Cognition*, 8\(1\), 17.
+
+Chai, M., & Braem, S.\(Preprint\) [Steering Through Task Uncertainty: Evidence for Activation Modulation over Dynamic Binding](https://osf.io/preprints/osf/xrfe6_v1).*OSF Preprint*.
+
+For full publication record, please see [my Google Scholar profile](https://scholar.google.com/citations?user=iXk9iMQAAAAJ&hl=en&oi=ao).
   
 Talks
 ======
@@ -63,7 +67,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
