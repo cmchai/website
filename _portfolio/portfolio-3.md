@@ -1,0 +1,24 @@
+---
+title: "Quantifying signal complexity on EEG + Eye tracking data"
+excerpt: "Using complex measures of neural recordings to investigate neural dynamics of task preparation<br/><img src='/website/images/frontpage.png' style='width: 50%; height: auto;'>"
+collection: portfolio
+---
+
+### hosting organization: Ghent University
+### project status: data collection is finished. Data analyis is ongoing.
+
+## The aim of this research project
+To furhter deepen our understanding on the neural dynamics when we face task uncertainty, we conduct this EEG + Eye tracking study, in which we measure the statistical regularity of the EEG signal, as well as the pupil dilation.
+
+## Main research tools and techniques
+
+**EEG \(electroencephalogram\)**: 
+We record 64-channel EEG \(10-20 system\) data while participants were performing on a task in a uncertain environment. To manage this uncertainty, they have to dynamically regulate their task preparation process, which can impact the variability\(or regularity\) of the EEG signal.
+
+**Eye Tracking**: 
+In addtion, we also collected eye tracking data during task performance. We are mostly interested in the
+
+**Complexity Analysis on Biological Signal Time Series**
+
+## Key findings
+Stay tuned...
