@@ -1,6 +1,6 @@
 ---
 title: "Quantifying signal complexity on EEG + Eye tracking data"
-excerpt: "Using complex measures of neural recordings to investigate neural dynamics of task preparation<br/><img src='/website/images/frontpage.png' style='width: 50%; height: auto;'>"
+excerpt: "Using complex measures of neural recordings to investigate neural dynamics of task preparation<br/><img src='/website/images/frontpage.png' style='width: 40%; height: auto;'>"
 collection: portfolio
 ---
 

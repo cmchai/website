@@ -19,6 +19,7 @@ Previously, we have developed a behavioral paradigm in which participants were e
 We recorded the brain activity using the MRI scanner. Participants were asked to do the task in the scanner while brain activity was measured at the same time. These functional MRI\(fMRI\) images and structural images were further processed before being decoded.
 
 **Medical image processing and machine learning techniques**
+![](https://raw.githubusercontent.com/cmchai/website/refs/heads/master/images/brain_scan.jpg){: style="float: right; margin: 0 0 1em 1em;" width="350px"}
 The images we collected from the MRI scanner went through various processing steps, including motion correction, bandpass filtering, and linear regression. The resulting data were further fed into a machine learning decoder \(such as SVM, logistic regression, random forest etc.\) to quantify how stronly a certain information is represented in the brain.
 
 ## Key findings
